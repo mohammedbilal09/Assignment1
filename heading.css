@@ -1,0 +1,25 @@
+.heading{
+    color: red;
+    margin-left: 25%;
+}
+.star{
+    color: red;
+}
+#contact{
+    margin-left: 25%;
+}
+body{
+    background-color : #d0d0d0 ;
+    margin-left: 25%;
+}
+#Name{
+    padding-bottom:  10px;
+    
+}
+#Email{
+    padding-bottom:  10px;
+}     
+.button{
+    background-color : hsl(0, 63%, 45%);
+    color: white;
+} 
